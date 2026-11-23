@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://letsseehowthisgoes22.github.io/la-teen-discharge-guide/sitemap.xml
